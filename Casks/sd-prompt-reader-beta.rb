@@ -1,6 +1,6 @@
 cask "sd-prompt-reader-beta" do
   version "1.4.0b1.dev0"
-  sha256 "aad0fb1b8ad7bdaf0c0781246f52510048d0aa8047906c9c587c5679c11fd2c1"
+  sha256 "2fb780dd098b467fab4e3a6b06db39f339d31335a24350c5571c5a84aba10ee3"
 
   url "https://receyuki.com/sdpr/SDPRbeta.zip"
   name "Stable Diffusion Prompt Reader Beta"
