@@ -1,5 +1,5 @@
 cask "sd-prompt-reader-beta" do
-  version "1.3.2-beta"
+  version "1.4.0-beta1"
   sha256 :no_check
 
   url "https://receyuki.com/sdpr/SDPRbeta.zip"
