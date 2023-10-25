@@ -1,6 +1,6 @@
 cask "sd-prompt-reader" do
-  version "1.3.3-post.1"
-  sha256 "73c2a723b575f447b591dc910ea1f23178e1be7348ed0f83b31ae754ad84646b"
+  version "1.3.4"
+  sha256 "274b80da981e295aa2ad9330356830c847719b27c5a585dc43e6c5ceb87e394d"
 
   url "https://github.com/receyuki/stable-diffusion-prompt-reader/releases/download/v#{version}/SD-Prompt-Reader-#{version}-macOS-universal.dmg"
   name "Stable Diffusion Prompt Reader"
