@@ -1,6 +1,6 @@
 cask "sd-prompt-reader-dev" do
-  version "1.3.4"
-  sha256 "e997ba09205b25cfd9e910d6cf33b6eb0eb0af64ad737213d66abf85863dce0d"
+  version "1.3.4.post1"
+  sha256 "fa9f6325b08ad9eafa61d0b96106f77f84b50011664eec7c1781778a89ea35fa"
 
   url "https://receyuki.com/sdpr/SDPRdev.zip"
   name "Stable Diffusion Prompt Reader Dev"
